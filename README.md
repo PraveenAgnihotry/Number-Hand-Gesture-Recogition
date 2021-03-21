@@ -1,5 +1,5 @@
 # Number-Hand-Gesture-Recogition
-Python model to train the CNN from the dataset and predict the numerical hand gesture (1-5) shown in the webcam
+Python model to train the CNN from the dataset and predict the numerical hand gesture (0-5) shown in the webcam
 # hand_gesture_recognition
 #### Libraries needed
 
